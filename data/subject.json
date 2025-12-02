@@ -1,0 +1,7 @@
+[
+    {"name": "", "teacher": ""},
+    {"name": "AIマネジメント", "teacher": "山田"},
+    {"name": "半導体", "teacher": "田中"},
+    {"name": "クラスワーク", "teacher": ["山田", "佐藤"]},
+    {"name": "ゲームプログラミング", "teacher": "東雲"}
+]
